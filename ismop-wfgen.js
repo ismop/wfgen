@@ -102,7 +102,7 @@ function createWf() {
 }
 
 if (!argv._[0]) {
-    console.log("Usage: node sleep_generator.js steps");
+    console.log("Usage: node ismop-wfgen.js steps");
     process.exit();
 }
 
